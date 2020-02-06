@@ -1,6 +1,10 @@
 web services:
+
 hello world
 welocme
+
+
+
 
 1. Copy "OnViewWebDeposit_USA-7.1.0.52\services\web\VSoft.OnViewWebDeposit.BIC.Service dll's" to web server's VSoft.OnViewWebDeposit.BIC.Service virtual directory after taking the backup of it.
 
